@@ -1,2 +1,3 @@
 # hello-world
-Yet another hello world repository
+This is yet another 'hello-world' repository...
+ - with updated README.md file.
